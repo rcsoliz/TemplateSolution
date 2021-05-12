@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\ItemTemplateSolution\ClassTemplates\bin\Debug\ClassTemplates.dll
+C:\Users\pc\source\repos\ItemTemplateSolution\ClassTemplates\bin\Debug\ClassTemplates.pdb
+C:\Users\pc\source\repos\ItemTemplateSolution\ClassTemplates\obj\Debug\ClassTemplates.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ItemTemplateSolution\ClassTemplates\obj\Debug\ClassTemplates.dll
+C:\Users\pc\source\repos\ItemTemplateSolution\ClassTemplates\obj\Debug\ClassTemplates.pdb
+C:\Users\pc\source\repos\ItemTemplateSolution\ClassTemplates\obj\Debug\ClassTemplates.csprojAssemblyReference.cache
